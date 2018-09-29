@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573280732640",
+    "firebase_url": "https://vtubook-e1424.firebaseio.com",
+    "project_id": "vtubook-e1424",
+    "storage_bucket": "vtubook-e1424.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573280732640:android:d31c6d1e1943a599",
+        "android_client_info": {
+          "package_name": "com.example.kush.vtubook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573280732640-sk3cqu3rohrgvut26m68puumhkokg7fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kush.vtubook",
+            "certificate_hash": "a576bc3f1888a756770d64cea1551385e8a17ba6"
+          }
+        },
+        {
+          "client_id": "573280732640-7eeoi521ssf03501ornqfbo0q5lkjbsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6e7QVZdPu3nNxgDteX7j-2XaNnhIzmz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573280732640-7eeoi521ssf03501ornqfbo0q5lkjbsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
